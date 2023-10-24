@@ -1,0 +1,255 @@
+﻿ID,Station
+0,Airport N.
+1,Airport S.
+2,Baijiang
+3,Baiyun Culture Square
+4,Baiyun Dongping
+5,Baiyun Park
+6,Baiyundadobei
+7,Banquiao
+8,Baogang Dadao
+9,Beijao Park
+10,Beijing Lu
+11,Botanical Garden
+12,Caihongqiao
+13,Canton Tower
+14,Changban
+15,Changgang
+16,Changping
+17,Changshou Lu
+18,Chao'an
+19,Chebei
+20,Chebeinan
+21,Chen Clan Academy
+22,Chencun
+23,Chencunbei
+24,Chentougang
+25,Chicao
+26,Chigang
+27,Chonghua Coach Terminal
+28,Cultural Park
+29,Dachong
+30,Daguannanlu
+31,Dashadi
+32,Dashadong
+33,Dashi
+34,Datang
+35,Dazhou
+36,Dichong
+37,Dongchong
+38,Dongfeng
+39,Dongping
+40,Dongpu
+41,Dongshankou
+42,Dongshu
+43,Dongxiaonan
+44,Ezhangtan
+45,Fangcun
+46,Fei'eling
+47,Feishajiao
+48,Fenggang
+49,Fenguang Xincun
+50,Fengxia
+51,Fiexiang Park
+52,Financial Hi-Tech Zone
+53,Gangding
+54,Gaotangshi
+55,Gaozeng
+56,Gedong
+57,Gongyuanqian
+58,Guanglong
+59,Guangzhou East Railway Station
+60,Guangzhou North Railway Station
+61,Guangzhou Railway Station
+62,Guangzhou South Railway Station
+63,Guanhu
+64,Guanzhou
+65,Guicheng
+66,Haibang
+67,Haizhu Square
+68,Hanghuangang
+69,Hanxi Changlong
+70,Hengli
+71,Hengsha
+72,Hesha
+73,Hetangxia
+74,Higher Education Mega Center N.
+75,Higher Education Mega Center S.
+76,Hongwei
+77,Huachenglu
+78,Huadiwan
+79,Huadu Autocity
+80,Huadu Square
+81,Huagoshan Park
+82,Hualinsi Buddhist Temple
+83,Huangbei
+84,Huangbian
+85,Huangcun
+86,Huangge
+87,Huangge Auto Town
+88,Huangsha
+89,Huijang
+90,Jiahewanggang
+91,Jiangnanxi
+92,Jiangtai Lu
+93,Jiangxia
+94,Jiaokou
+95,Jiaomen
+96,Jiaoxin
+97,Jihua Park
+98,Jinfeng
+99,Jingxi Nanfang Hospital
+100,Jinkeng
+101,Jinlong
+102,Jinzhou
+103,Julong
+104,Jushu
+105,Kecun
+106,Kemulang
+107,Kengbei
+108,Kengoku
+109,Keyun Lu
+110,Kuiqi Lu
+111,Lanshi
+112,Leigang
+113,Liantang
+114,Liede
+115,Lijiao
+116,Linhexi
+117,Longdong
+118,Longgui
+119,Longtan
+120,Longxi
+121,Luijiang
+122,Luogang
+123,Luoxi
+124,Ma'anshan Park
+125,Mali
+126,Martyrs' Park
+127,Meidi Dado
+128,Meihuayuan
+129,Miedea
+130,Modiesha
+131,Nampu
+132,Nanchong
+133,Nancun Wanbo
+134,Nangang
+135,Nangui Lu
+136,Nanhai God Temple
+137,Nanheng
+138,Nansha Passenger Port
+139,Nanzhou
+140,Ouzhuang
+141,Panyu Square
+142,Pazhou
+143,Peasant Movement Institute
+144,Pujun Beilu
+145,Qiandenghu Lake
+146,Qingbu
+147,Qingsheng
+148,Qingtang
+149,Renhe
+150,Ruyifang
+151,Sanxi
+152,Sanyuanti
+153,Science City
+154,Shabei
+155,Shachong
+156,Shacun
+157,Shaheding
+158,Shangbu
+159,Shantian
+160,Shaxi
+161,Shayuan
+162,Shengang
+163,Shenzhoulu
+164,Shibi
+165,Shiguanglu
+166,Shijilian
+167,Shijing
+168,Shipaiqiao
+169,Shiqi
+170,Shiquiao
+171,Shitan
+172,Shixi
+173,Shuanggang
+174,Shuixi
+175,Sino-Singapore Guangzhou Knowledge City
+176,South China Normal University
+177,Sun Yat-sen Memorial Hall
+178,Sun Yat-sen University
+179,Suyuan
+180,Taihe
+181,Taiping
+182,Tancun
+183,Tangcun
+184,Tangdong
+185,Tangkeng
+186,Tanwei
+187,Taojin
+188,The 2nd Workers' Cultural Palace
+189,Tianhe Coach Terminal
+190,Tianhe Park
+191,Tianhe Smart City
+192,Tianhe Sports Centre
+193,Tianpingjia
+194,Tinggang
+195,Tiyu Xilu
+196,Tongde
+197,Tongfuxi
+198,Tonghe
+199,Tongji Lu
+200,Tuanyida Square
+201,Wangcun
+202,Wanqingsha
+203,Wanshengwei
+204,Wenchong
+205,Wushan
+206,Wuyangcun
+207,Xiajiao
+208,Xialiang
+209,Xiancun
+210,Xiangang
+211,Xiangxue
+212,Xiaobei
+213,Xiaogang
+214,Xiao-gang
+215,Xiaoping
+216,Xiayuan
+217,Xichang
+218,Xicun
+219,Xiecun
+220,Xilang
+221,Ximenkou
+222,Xincheng Dong
+223,Xingangdong
+224,Xinhe
+225,Xinnan
+226,Xinsha
+227,Xintang
+228,Xinzao
+229,Xunfenggang
+230,Yancun
+231,Yangang
+232,Yangji
+233,Yantang
+234,Yide Lu
+235,Yongtai
+236,Yuangang
+237,Yuexiu Park
+238,Yufengwei
+239,Yuzhu
+240,Zengcheng Square
+241,Zhenlong
+242,Zhenlongbei
+243,Zhenlongxi
+244,Zhongcun
+245,Zhonggang
+246,Zhongluotan
+247,Zhongshanba
+248,Zhongxin
+249,Zhucun
+250,Zhujiang New Town
+251,Zhuliao
+252,Zoo
+253,Zumiao

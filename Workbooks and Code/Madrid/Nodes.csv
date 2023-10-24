@@ -1,0 +1,243 @@
+﻿ID,Station
+0,Abrantes
+1,Acacias
+2,Aeropuerto T1-T2-T3
+3,Aeropuerto T4
+4,Alameda de Osuna
+5,Alcorcón Central
+6,Alfonso XIII
+7,Almendrales
+8,Alonso Cano
+9,Alonso de Mendoza
+10,Alonso Martínez
+11,Alsacia
+12,Alto de Extremadura
+13,Alto del Arenal
+14,Aluche
+15,Alvarado
+16,Antón Martin
+17,Antonio Machado
+18,Arganda del Rey
+19,Arganzuela-Planetario
+20,Argüelles
+21,Arroyo Culebro
+22,Arroyofrenso
+23,Artilleros
+24,Arturo Soria
+25,Ascao
+26,Atocha
+27,Av. de América
+28,Av. de Guadalajara
+29,Av. de la Ilustración
+30,Av. de la Paz
+31,Avitación Española
+32,Bambú
+33,Banco de España
+34,Barajas
+35,Barrio de la Conceptión
+36,Barrio del Pilar
+37,Barrio del Puerto
+38,Batán
+39,Bautanal
+40,Begoña
+41,Bilbao
+42,Buenos Aires
+43,Callao
+44,Campamento
+45,Canal
+46,Canillas
+47,Canillejas
+48,Carabanchel
+49,Carabanchel Alto
+50,Carpetana
+51,Cartagena
+52,Casa de Campo
+53,Casa del Reloj
+54,Chamartín
+55,Chueca
+56,Ciudad de los Ángeles
+57,Ciudad Lineal
+58,Colombia
+59,Colón
+60,Colonia Jardín
+61,Concha Espina
+62,Conde de Casal
+63,Congosto
+64,Conservatorio
+65,Coslada Central
+66,Cruz del Rayo
+67,Cuatro Caminos
+68,Cuatro Vientos
+69,Cuidad Universitaria
+70,Cuzco
+71,Delicias
+72,Diego de León
+73,Duque de Pastrana
+74,El Bercial
+75,El Capricho
+76,El Carmen
+77,El Carrascal
+78,El Casar
+79,Embajadores
+80,Empalme
+81,Esperanza
+82,Estación del Arte
+83,Estadio Metropolitano
+84,Estrecho
+85,Estrella
+86,Eugenia de Montijo
+87,Feria de Madrid
+88,Francos Rodríguez
+89,Fuencarral
+90,Fuenlabrada Central
+91,García Noblejas
+92,Getafe Central
+93,Goya
+94,Gran Vía
+95,Gregorio Marañón
+96,Guzmán el Bueno
+97,Henares
+98,Herrera Oria
+99,Hortaleza
+100,Hospital 12 de Octubre
+101,Hospital de Fuenteblanca
+102,Hospital de Móstoles
+103,Hospital del Henares
+104,Hospital Infanta Sofía
+105,Hospital Severo Ochoa
+106,Ibiza
+107,Iglesia
+108,Isals Filipinas
+109,Jarama
+110,Joaquín Vilumbrales
+111,Juan de la Cierva
+112,Julián Besteiro
+113,La Almuedena
+114,La Elipa
+115,La Fortuna
+116,La Gavia
+117,La Granja
+118,La Latina
+119,La Moraleja
+120,La Peseta
+121,La Poveda
+122,La Rambla
+123,Lacoma
+124,Lago
+125,Laguna
+126,Las Musas
+127,Las Rosas
+128,Las Suertes
+129,Las Tablas
+130,Lavapiés
+131,Leganés Central
+132,Legazpi
+133,Lista
+134,Loranca
+135,Los Espartales
+136,Lucero
+137,Manoteras
+138,Manuel Becerra
+139,Manuel de Falla
+140,Manuela Malasaña
+141,Mar de Cristal
+142,Marqués de la Valdavia
+143,Marqués de Vadillo
+144,Méndez Álvaro
+145,Menéndez Pelayo
+146,Miguel Hernández
+147,Mirasierra
+148,Moncloa
+149,Montecarmelo
+150,Móstoles Central
+151,Noviciado
+152,Nueva Numancia
+153,Nuevos Ministerios
+154,Núñez de Balboa
+155,O'Donnell
+156,Opañel
+157,Ópera
+158,Oporto
+159,Pacífico
+160,Paco de Lucía
+161,Palos de la Frontera
+162,Pan Bendito
+163,Parque de las Avenidas
+164,Parque de los Estados
+165,Parque de Santa María
+166,Parque Europa
+167,Parque Lisboa
+168,Parque Oeste
+169,Pavones
+170,Peñagrande
+171,Pinar de Chamartín 
+172,Pinar del Rey
+173,Pío XII
+174,Pirámides
+175,Pitis
+176,Pivas-Urbanzaciones
+177,Plaza de Castilla
+178,Plaza de España
+179,Plaza Elíptica
+180,Portazgo
+181,Pradillo
+182,Príncipe de Vergara
+183,Príncipe Pío
+184,Prosperidad
+185,Pueblo Nuevo
+186,Puento de Vallecas
+187,Puerta de Arganda
+188,Puerta de Toledo
+189,Puerta del Ángel
+190,Puerta del Sur
+191,Quevedo
+192,Quintana
+193,República Argentina
+194,Retiro
+195,Reyes Católicos
+196,Ríos Rosas
+197,Rivas Futura
+198,Rivas Vaciamadrid
+199,Ronda de la Comunicación
+200,Ruben Darío
+201,Sainz de Baranda
+202,San Bernando
+203,San Blas
+204,San Cipriano
+205,San Cristóbal
+206,San Fermín-Orcasur
+207,San Fernando
+208,San Francisco
+209,San Lorenzo
+210,San Nicasio
+211,Santiago Bernabéu
+212,Santo Domingo
+213,Serrano
+214,Sevilla
+215,Sierra de Guadalupe
+216,Simancas
+217,Sol
+218,Suanzes
+219,Tetuán
+220,Tirso de Molina
+221,Torre Arias
+222,Tres Olivos
+223,Tribunal
+224,Universidad Rey Juan Carlos
+225,Urgel
+226,Usera
+227,Valdeacederas
+228,Valdebernando
+229,Valdecarros
+230,Valdezarza
+231,Velázquez
+232,Ventas
+233,Ventilla
+234,Ventura Rodríguez
+235,Vicálvaro
+236,Vicente Aleixandre
+237,Villa de Vallecas
+238,Villaverde Alto
+239,Villaverde Bajo-Cruce
+240,Vinateros
+241,Vista Alegre
